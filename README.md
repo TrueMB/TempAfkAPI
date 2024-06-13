@@ -1,0 +1,2 @@
+# TempAfkAPI
+The TempAfk API
